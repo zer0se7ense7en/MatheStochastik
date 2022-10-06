@@ -28,6 +28,7 @@ def statistical_question1():
 
     print(f'Your chance of winning should be approximately {success/num_repetitions*100}%')
 
+    
 def statistical_question2():
     num_double_throws = 24
     num_repetitions = 20000
